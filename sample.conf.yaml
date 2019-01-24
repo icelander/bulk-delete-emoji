@@ -1,0 +1,4 @@
+---
+mattermost_api:
+  url: http://chat.local/
+  auth_token: tppyxqvk3dvwhhc2httwk1hhyt
